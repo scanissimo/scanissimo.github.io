@@ -1,0 +1,61 @@
+# Site settings
+title: scanissimo!
+email: info@scanissimo.com
+url: https://www.scanissimo.com
+description: "3D Scanner"
+keywords: "3D, 3D laser, 3D laser scanner, 3D scanner"
+skills: "3D Scanner"
+meta_author: Scanissimo
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: scanissimo
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: F95951
+  primary-rgb: "259,89,81"
+  secondary: 05A8AA
+  secondary-dark: 2C4A58
+
+# Footer settings
+footer:
+  copyright: Scanissimo!
+  location: Office
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/scanissimo
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/scanissimo
+  - title: github
+    url: http://github.com/scanissimo
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: ...
+  - line: Berlin
+
+# Credits content
+credits: 'available soon'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

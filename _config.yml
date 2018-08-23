@@ -50,9 +50,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Angaben gemäß § 5 TMG und § 55 Abs. 2 RStV:
+  - line: Angaben gem. § 5 TMG, § 55 Abs. 2 RStV
   - line: René Bohne
-  - line: Schreiberhauer Str. 3. 10317 Berlin
+  - line: Schreiberhauer Str. 3.
+  - line: 10317 Berlin
 
 # Credits content
 credits: 'available soon'

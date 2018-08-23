@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Scanissimo!
-  location: Office
+  location: Impressum
   social: Around the Web
   credits: Credits
 
@@ -50,8 +50,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: ...
-  - line: Berlin
+  - line: Angaben gemäß § 5 TMG und § 55 Abs. 2 RStV:
+  - line: René Bohne
+  - line: Schreiberhauer Str. 3. 10317 Berlin
 
 # Credits content
 credits: 'available soon'

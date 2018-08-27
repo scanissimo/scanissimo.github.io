@@ -58,6 +58,9 @@ address:
 # Credits content
 credits: 'available soon'
 
+# set to show for enablig the portfolio grid
+portfolio: hide
+
 # Build settings
 markdown: kramdown
 permalink: pretty
